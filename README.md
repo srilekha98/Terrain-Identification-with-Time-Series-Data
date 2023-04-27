@@ -6,3 +6,5 @@ Steps to run the notebook:
 1. upload the notebook in google colab. Make sure the connected google account has access to the training and testing files of the project(originally shared with us)
 2. Click on edit menu, select notebook settings and click on TPU from the drop down menu.(this allows it to run on a TPU)
 3. Now you can run all the cells and the final cell creates the prediction files for tests.
+4. The first 57 cells that have run are training part, and next is test file generation
+5. our final model in in cell 55
